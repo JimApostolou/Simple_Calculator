@@ -26,10 +26,11 @@ body {
     border: 1px solid white;
     outline: none;
     background-color: rgba(104,	109, 224, .4);
+    transition: all .3s ease-in;
 }
 
 .calculator-grid > button:hover {
-    background-color: rgba(104,	109, 224, .6);
+    background-color: rgba(104,	109, 224, .8);
 }
 
 .span-two {
